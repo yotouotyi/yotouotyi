@@ -1,0 +1,28 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+#header{
+margin:0px 0px 0px 80px;
+background: url("images/header.jpg") no-repeat;
+}
+p
+{text-indent: 20px;
+margin: 5px 5px 5px 5px;}
+
+#pogoda{float:left;
+width="140"
+margin:10px;}
+
+#photo{float:right;
+width="220"
+margin:10px;}
+
+#content{140px 0px 0px 220px;
+}
+
+#footer{background:#CCCCCC;
+margin:5px 5px 10px 5px;
+text-align:center;
+clear:both;
+}
